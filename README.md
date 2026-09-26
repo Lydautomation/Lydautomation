@@ -1,8 +1,4 @@
-# Lydia Ogbene Odey
-
-### AI Automation Specialist
-
-**Health Tech Automation • Sales & CRM Automation**
+# Hi, I'm Lydia
 
 I design and build AI-powered systems that streamline healthcare and business operations.
 
