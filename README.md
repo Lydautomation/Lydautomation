@@ -20,6 +20,12 @@ AI-powered patient appointment assistant that supports appointment booking, retr
 
 [View Project](https://github.com/Lydautomation/nora-ai-patient-appointment-assistant)
 
+### Patient Feedback & Complaint Escalation Workflow
+
+AI-powered healthcare workflow that analyzes patient feedback, routes positive and negative experiences appropriately, automates patient responses, and escalates complaints for human review and follow-up.
+
+[View Project](https://github.com/Lydautomation/patient-feedback-complaint-escalation)
+
 ### VELA — AI Customer Support & Shopping Assistant
 
 AI-powered customer support and shopping assistant using Retrieval-Augmented Generation (RAG), conversational context, customer data, and human handover to provide grounded customer assistance.
@@ -31,12 +37,6 @@ AI-powered customer support and shopping assistant using Retrieval-Augmented Gen
 Team-built B2B automation system that uses AI to assess incoming enquiries, recommend HOT, WARM, or COLD lead classifications, and route prospects for appropriate follow-up while keeping final decisions under human control.
 
 [View Project](https://github.com/Lydautomation/cybervast-b2b-ai-lead-qualification)
-
-### HavenKey — Real Estate AI Lead Qualification & Follow-Up
-
-AI-powered real estate lead management workflow that assesses buying readiness, prioritizes prospects, notifies the sales team, schedules property consultations, and sends automated confirmation emails.
-
-[View Project](https://github.com/Lydautomation/havenkey-real-estate-ai-lead-automation)
 
 ---
 
