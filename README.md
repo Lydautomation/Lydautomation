@@ -2,7 +2,7 @@
 
 I’m an **AI Automation Specialist** helping healthcare organizations and businesses use AI and automation to reduce repetitive manual work, save time, and make their operations more efficient.
 
-With a background in **Health Information Management**, I bring an understanding of healthcare into my Health Tech work, allowing me to build solutions that address healthcare needs while maintaining privacy security and appropriate human oversight.
+With a background in **Health Information Management**, I bring an understanding of healthcare into my Health Tech work, allowing me to build solutions that address healthcare needs while maintaining privacy, security and appropriate human oversight.
 
 For **Sales & CRM Automation**, I build solutions that help businesses manage leads, improve follow-ups, organize customer information, and ensure the right opportunities get the attention they need.
 
