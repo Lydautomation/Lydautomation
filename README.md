@@ -1,12 +1,14 @@
 # Hi, I'm Lydia
 
-I design and build AI-powered systems that streamline healthcare and business operations.
+I’m an **AI Automation Specialist** helping healthcare organizations and businesses use AI and automation to reduce repetitive manual work, save time, and make their operations more efficient.
 
-With a background in **Health Information Management**, I bring healthcare knowledge into my work in Health Tech Automation, building practical systems around real operational needs.
+With a background in **Health Information Management**, I bring an understanding of healthcare into my Health Tech work, allowing me to build solutions that address healthcare needs while maintaining appropriate human oversight.
 
-My work also extends to **Sales & CRM Automation**, where I build workflows that improve how businesses manage leads, follow-ups, customer information, and sales processes.
+For **Sales & CRM Automation**, I build solutions that help businesses manage leads, improve follow-ups, organize customer information, and ensure the right opportunities get the attention they need.
 
-Beyond these specializations, I work with AI agents, RAG systems, APIs, databases, and human-in-the-loop automation to build reliable end-to-end solutions.
+I work with **AI agents, RAG, APIs, databases, and workflow automation** to connect tools and build reliable end-to-end solutions based on the needs of each project.
+
+Below are some of the solutions I’ve designed and built.
 
 ---
 
